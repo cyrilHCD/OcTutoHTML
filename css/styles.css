@@ -10,7 +10,7 @@
 }
 body {
 	background-image: url("../img/fond.jpg");
-	font-family: "Roboto-Regular",Arial, sans-serif;
+	font-family: "robotoregular",Arial, sans-serif;
 }
 h1 {
 	text-align: center;
