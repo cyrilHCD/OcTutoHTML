@@ -23,3 +23,44 @@ img {
     box-shadow: 6px 6px 10px black;
 	border-radius: 20px / 20px;
 }
+#lisere
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+	background-image: linear-gradient(to right, #96d09b, #4F7A4D);
+	width: 10%;
+	height: 100%;
+}
+header
+{
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: center;
+}
+#photo
+{
+	position: absolute;
+	right: 3%;
+}
+
+#content{
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: center;
+	padding-left: 10%;
+}
+#experience
+{
+	flex: 1;
+}
+
+#competences
+{
+	flex: 1;
+}
+
+#formation
+{
+	flex: 1;
+}
