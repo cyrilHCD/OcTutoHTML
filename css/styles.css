@@ -64,3 +64,16 @@ header
 {
 	flex: 1;
 }
+
+@media all and (max-width: 1024px)
+{
+	#lisere
+	{
+		display: none;
+	}
+	#content
+	{
+		flex-direction: column;
+	}
+
+}
