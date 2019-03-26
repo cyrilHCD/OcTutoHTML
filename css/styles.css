@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('Roboto-Regular.woff') format('woff'),
+         url('Roboto-Regular.ttf') format('truetype');
+}
+body {
+	background-image: url("../img/fond.jpg");
+	font-family: "Roboto-Regular",Arial, sans-serif;
+}
+h1 {
+	text-align: center;
+}
+strong {
+	color: #85CD8B;
+}
+img {
+	border: 3px solid black;
+    box-shadow: 6px 6px 0px black;
+	border-radius: 20px;
+}
